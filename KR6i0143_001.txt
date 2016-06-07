@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:58.905824
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:42
 #+TITLE: 佛說琉璃王經
 #+PROPERTY: CBETA_ID T14n0513
 #+PROPERTY: ID KR6i0143
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 513
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0143_T_000-0783b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0143_T_001-0783b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.513¶
-
- 佛說琉璃王經¶
+No. 513¶
+佛說琉璃王經¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
@@ -101,9 +100,9 @@ No.513¶
 　王據國恣情，
 　饕穢遑所欲，¶
 　聞法蒙解脫，
-　塵垢用消除。」
+　塵垢用消除。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，觀者無數千人，聞王歎音，八百人發¶
 大道意，皆立不退，轉憂色不悅。王后末利¶
@@ -129,9 +128,9 @@ No.513¶
 「　「有子有財思惟波波，
 　我自非我何有子財，¶
 　愚癡自怙豪尊有終，
-　太子用國殪入地獄。」
+　太子用國殪入地獄。」」
 #+END_VERSE
-」¶
+¶
 
 釋氏貴姓二百五十，深惟無常，得不退轉。五¶
 百女人，未出家者，得不起法忍。
@@ -314,9 +313,9 @@ No.513¶
 「　「諸仁目所見，
 　現在變如是，¶
 　畢故莫造新，
-　後可長度脫。」
+　後可長度脫。」」
 #+END_VERSE
-」¶
+¶
 
 佛歎偈已，復為說法。諸來觀者，天、龍、鬼神、¶
 阿須倫、迦留羅、真陀羅、摩休勒、梵志、居士、長¶
